@@ -16,7 +16,7 @@
         <kotlin.version>1.1.4</kotlin.version>
         <spring.version>4.3.10.RELEASE</spring.version>
         <cucumber.version>1.2.4</cucumber.version>
-        <lucene.version>6.4.0</lucene.version>
+        <lucene.version>8.2.0</lucene.version>
         <kafka.version>0.11.0.1</kafka.version>
         <avro.version>1.8.2</avro.version>
     </properties>
